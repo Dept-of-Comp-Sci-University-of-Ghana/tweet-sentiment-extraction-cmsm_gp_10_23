@@ -1,0 +1,14 @@
+# Jupyter Notebook temporary files
+.ipynb_checkpoints/
+
+# Jupyter Notebook kernel connection files
+*.json
+
+# Jupyter Notebook output files
+*.html
+*.pdf
+*.py
+
+# Jupyter Notebook workspace files
+*.ipynb_checkpoints
+.DS_Store
